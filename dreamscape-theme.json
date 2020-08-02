@@ -1,5 +1,5 @@
 {
-	"name": "Abyss",
+	"name": "Dreamscape",
 	"tokenColors": [
 		{
 			"settings": {
@@ -251,6 +251,9 @@
 		}
 	],
 	"colors": {
+        // Window
+        "window.activeBorder": "#744da9"
+
         // Editor
 		"editor.background": "#000c18",
 		"editor.foreground": "#6688cc",
@@ -323,7 +326,10 @@
 		// Editor: Minimap
 		"minimap.selectionHighlight": "#750000",
 
-		// Workbench: Title
+        // Menu
+        "menu.border": "#744da9",
+
+        // Workbench: Title
 		"titleBar.activeBackground": "#10192c",
 
 		// Workbench: Editors
@@ -332,8 +338,11 @@
 		"editorGroupHeader.tabsBackground": "#1c1c2a",
 
 		// Workbench: Tabs
-		"tab.border": "#2b2b4a",
-		"tab.inactiveBackground": "#10192c",
+        "tab.border": "#744da9",
+        "tab.activeBorder": "#744da9",
+        "tab.activeBackground": "#4e3078",
+        "tab.activeBorderTop": "#744da9",
+        "tab.inactiveBackground": "#10192c",
 
 		// Workbench: Activity Bar
 		"activityBar.background": "#051336",
@@ -344,6 +353,8 @@
 		// Workbench: Side Bar
 		"sideBar.background": "#060621",
 		"sideBarSectionHeader.background": "#10192c",
+        "sideBarSectionHeader.border": "#744da9",
+        "sideBar.border": "#744da9",
 
 		// Workbench: Status Bar
 		"statusBar.background": "#10192c",
