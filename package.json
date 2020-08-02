@@ -1,7 +1,7 @@
 {
 	"name": "theme-dreamscape",
-	"displayName": "%displayName%",
-	"description": "%description%",
+	"displayName": "Dreamscape Theme",
+	"description": "Dreamscape Theme for VSCode",
 	"version": "1.0.0",
 	"publisher": "flipperpa",
 	"license": "BSD",
