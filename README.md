@@ -6,8 +6,8 @@ Many VSCode themes do not have distinct borders between elements, or at the edge
 
 ## Full Editor Screenshot
 
-![Full Editor Screenshot](img/full.png)
+![Full Editor Screenshot](images/full.png)
 
 ## Select Text Screenshot
 
-![Selected Text Screenshot](img/selection.png)
+![Selected Text Screenshot](images/selection.png)
