@@ -8,6 +8,6 @@ Many VSCode themes do not have distinct borders between elements, or at the edge
 
 ![Full Editor Screenshot](https://raw.githubusercontent.com/FlipperPA/vscode-theme-dreamscape/main/images/full.png)
 
-## Select Text Screenshot
+## Selected Text Screenshot
 
 ![Selected Text Screenshot](https://raw.githubusercontent.com/FlipperPA/vscode-theme-dreamscape/main/images/selection.png)
